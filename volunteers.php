@@ -39,7 +39,7 @@
 							<tr><td>Reena Rabadia</td><td>English (Year 7)</td></tr>
 							<tr><td>Pritesh Patel</td><td>Maths (Year 7)</td></tr>
 							<tr><td>Nilesh Bhanderi</td><td>Maths (Years 8 and 9)</td></tr>
-							
+							<tr><td>Hinesh Rabadia</td><td>Maths (Years 10 and 11)</td></tr>
 							<tr><td>Jaynti Kerai</td><td>Maths (Years 10 and 11)</td></tr>
 							<tr><td>Hiten Rabadia</td><td>Maths (Year 12)</td></tr>
 							<tr><td>Govindbhai Sevani</td><td>Gujarati</td></tr>
