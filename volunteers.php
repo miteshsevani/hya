@@ -48,7 +48,7 @@
 							<tr><td>Govind Shiyani</td><td>Hinduism</td></tr>
 							<tr><td>Dhrutee Shiyani</td><td>Hinduism</td></tr>
 							<tr><td>Rupal Hirani</td><td>Hinduism</td></tr>
-							<tr><td class="last">Jayshreeben</td><td class="last">Sanskrit</td></tr>
+							
 						</tbody>
 					</table>		
 				</div>
