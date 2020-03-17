@@ -1,5 +1,5 @@
-.home .title {  
-  font-size: 28px; 
+.home .title {
+  font-size: 28px;
   text-align: center;
 }
 
@@ -9,24 +9,23 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   text-align: center;
-  margin-top: 8px; 
+  margin-top: 8px;
 }
 
-@media all and (min-width: 768px) {  
+@media all and (min-width: 768px) {
   .home .title {
-    font-size: 34px; 
-  }  
+    font-size: 34px;
+  }
   .classes {
-    margin-top: 32px; 
-  }  
+    margin-top: 32px;
+  }
 }
 
 @media all and (min-width: 992px) {
   .home .content {
     background: #ffffff;
-    margin-top: -90px; 
   }
   .classes {
-    justify-content: space-between; 
+    justify-content: space-between;
   }
 }

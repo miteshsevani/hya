@@ -9,15 +9,15 @@ const data = require('../content/data.json');
 const Home = () => {
   return (
     <div className="home">
-      <Banner intro={data.index.intro} />
       <div className="content">
+        <Banner text={data.banner.text} />
         <h1 className="title">Our Classes</h1>
         <div className="classes">
           {data.index.classes.map((val, key) => {
             return(
               <Panel key={key} data={val} />
             )
-          })}        
+          })}
         </div>
       </div>
     </div>
