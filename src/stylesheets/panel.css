@@ -1,0 +1,58 @@
+.class {
+  border: 2px solid #288ECE;
+  border-radius: 15px;
+  width: 270px;
+  height: 200px;
+  margin: 32px 16px;
+  padding: 16px 8px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end; 
+}
+
+.class h3 {
+  padding: 0 16px;
+  z-index: 1; 
+}
+
+.class img {
+  position: absolute;
+  background: #ffffff;
+  width: 50px;
+  top: -36px;
+  padding: 8px 16px; 
+}
+
+.class .day-time {
+  padding: 16px 0;
+  font-weight: normal; 
+}
+
+.class.yoga img, 
+.class.hinduism img {
+  top: -50px; 
+}
+
+
+@media all and (min-width: 768px) {    
+  .class {
+    width: 296px;
+    height: 220px; 
+  }
+  .class img {
+    width: auto;
+    top: -56px;
+    padding: 16px 32px; 
+  }
+  .class.yoga img, .class.hinduism img {
+    top: -56px; 
+  } 
+}
+
+@media all and (min-width: 992px) {
+  .class {
+    width: 270px; 
+  } 
+}

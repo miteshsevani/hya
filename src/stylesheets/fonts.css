@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url("../fonts/Montserrat-regular.woff2") format("woff2"), url("../fonts/Montserrat-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url("../fonts/Montserrat-300.woff2") format("woff2"), url("../fonts/Montserrat-300.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url("../fonts/Montserrat-500.woff2") format("woff2"), url("../fonts/Montserrat-500.woff") format("woff");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url("../fonts/Montserrat-700.woff2") format("woff2"), url("../fonts/Montserrat-700.woff") format("woff");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/Roboto-regular.woff2") format("woff2"), url("../fonts/Roboto-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/Roboto-300.woff2") format("woff2"), url("../fonts/Roboto-300.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/Roboto-500.woff2") format("woff2"), url("../fonts/Roboto-500.woff") format("woff");
+  font-weight: 500;
+  font-style: normal; }
+
+  @font-face {
+    font-family: 'Caveat';
+    src: url("../fonts/Caveat-Regular.woff2") format("woff2"), url("../fonts/Caveat-Regular.woff") format("woff");
+    font-weight: 500;
+    font-style: normal; }

@@ -1,0 +1,46 @@
+
+
+.events {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 8px 0;
+  border-bottom: 1px solid #D6D6D6;
+  padding-bottom: 8px; 
+}
+
+.events:last-child {
+  border: 0; 
+}
+
+.events .date {
+  width: 100%;
+  font-weight: normal; 
+}
+
+.events .event {
+  width: 100%; 
+}
+
+.events .important {
+  color: red;
+  font-style: italic; 
+}
+
+@media all and (min-width: 768px) {
+  .wrapper {
+    margin: 32px 0 0 0; 
+  }
+  .events {
+    flex-direction: row; 
+  }
+  .events .date {
+    width: 25%;
+    padding-left: 8px;
+    border-left: 4px solid #D6D6D6;
+    display: inline-table; 
+  }
+  .events .event {
+    width: 75%; 
+  } 
+}

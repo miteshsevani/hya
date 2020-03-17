@@ -1,0 +1,265 @@
+{
+  "index": {
+    "page" : "home",
+    "title" : "Hindu Youth Association",    
+    "intro" : "Education is not the amount of information that is put into your brain and runs riot there, undigested all your life. We must have life‑building, man‑making, character‑making, assimilation of ideas.",
+    "classes": [      
+      {
+        "className" : "english",
+        "icon" : "../images/icons/english.png",
+        "subject" : "English",
+        "years" : "Years 1 to 7",
+        "day" : "Saturday",
+        "time" : "12.30 to 13.30",
+        "venue" : "Plumstead Manor School<br />Old Mill Road<br />Plumstead, SE18 1QF"
+      },
+      {
+        "className" : "maths",
+        "icon" : "../images/icons/maths.png",
+        "subject" : "Maths",
+        "years" : "Years 1 to 13",
+        "day" : "Saturday",
+        "time" : "12.30 to 14.30",
+        "venue" : "Plumstead Manor School<br />Old Mill Road<br />Plumstead, SE18 1QF"
+      },            
+      {
+        "className" : "gujarati",
+        "icon" : "../images/icons/gujarati.png",
+        "subject" : "Gujarati",
+        "years" : "Up to A Levels",
+        "day" : "Saturday",
+        "time" : "15.00 to 17.00",
+        "venue" : "Plumstead Manor School<br />Old Mill Road<br />Plumstead, SE18 1QF"
+      },
+      {
+        "className" : "yoga",
+        "icon" : "../images/icons/yoga.png",
+        "subject" : "Yoga",
+        "years" : "All ages",
+        "day" : "Tuesday",
+        "time" : "18.30 to 19.30",
+        "venue" : "Glyndon Community Centre<br />Raglan Road<br />Woolwich, SE18 7LB"
+      },
+      {
+        "className" : "hinduism",
+        "icon" : "../images/icons/hinduism.png",
+        "subject" : "Hindusim",
+        "years" : "Up to GCSE",
+        "day" : "Thursday",
+        "time" : "19.30 to 21.00",
+        "venue" : "Plumstead Manor School<br />Old Mill Road<br />Plumstead, SE18 1QF"
+      },
+      {
+        "className" : "toddlers",
+        "icon" : "../images/icons/toddlers.png",
+        "subject" : "Toddler's Group",
+        "years" : "Under 5's",
+        "day" : "Saturday",
+        "time" : "10.30 to 11.30",
+        "venue" : "Plumstead Manor School<br />Old Mill Road<br />Plumstead, SE18 1QF"
+      }      
+    ]    
+  },
+  "about": {
+    "page" : "about",
+    "title" : "About",
+    "body" : "<p>Hindu Youth Asscoaition (HYA) has always remained focused on our children and young people.</p><p>The fundamental principles of HYA have always been to support our future of tomorrow, to build their personality in physical, intellectual, moral and spiritual strength which are all central to ensure they become good citizens.</p><p>The main activities and programmes of HYA is Providing education through lectures, discussions, hands-on training, excursions, etc leading to nationally recognised qualifications where applicable through the associations' supplementary school run in the London Borough of Greenwich. To conduct various programmes to preserve, protect and advance the health and welbeing of the young people and adults, e.g physical and mental exercises, yoga, etc.</p>",
+    "objectives": {
+      "title" : "Objectives",
+      "objectives": [
+        {
+          "objective": "To advance education for the public benefit in particularly but not exclusively young people in the London Borough of Greenwich"
+        },
+        {
+          "objective": "To preserve and protect good health"
+        },
+        {
+          "objective": "The provision of recreational and leisure time activity in the interests of social welfare for people living in the area of benefit who have need by reason of their youth, age, infirmity or disability, poverty or social and economic circumstances with a view to improving the conditions of life of such persons."
+        }
+      ]
+    }
+  },
+  "history": {
+    "page" : "history",
+    "title" : "History",
+    "body" : "<p>They say that it's the small things that lead to bigger and better opportunities and in the case of two Indian boys that proved to be just the case!</p><p>When Shri Govindbhai Sevani and Shri Hirjibhai Shiyani began teaching Gujarati to their nieces and nephews, little did they realise that this humble beginning would flourish into a successful supplementary school in Greenwich, South East London and clock up prestigious awards for some 30 years later.</p><p>A staff of 30 volunteers including teachers and committee staff now offer tuition for Mathematics and Sanatan Dharma (Hinduism) up to A' Level, English up to year 7, Gujarati up to GCSE and Yoga.</p><p>HYA participated in the first Pilot Quality Framework for Supplementary Schools in London programme in June 2006. The programme was delivered in partnership between the Resource Unit for Supplementary and Mother Tongue Schools and the Pan London Forum for Supplementary Education. At the time HYA was awarded a Silver award (one of only two in London Borough of Greenwich).</p><p>The award was presented by Lord Adonis the then Parliamentary Under-Secretary of State for Schools at the Resource Unit's second annual conference in 2007.</p><p>Since then the HYA Supplementary School has grown from strength to strength achieving a Gold award when re-assessed in summer 2010.</p><p>Hindu Youth Association (HYA) has worked on a voluntary basis for over 25 years, to support our youths and to enable them to fulfil their full potential, to becoming active citizens in their communities and schools. This was originally done by providing language classes in Gujarati. The uniqueness of HYA is that over the years the organisation has evolved. We now run a complementary school, which has over 165 pupils, to provide complementary classes in mainstream curriculum subjects such as English, Maths, Hinduism, cultural activities, Yoga and their heritage language - Gujarati.</p><p>The result of this is a reliable and dedicated team of volunteers; students that are dedicated and determined to achieve their best and who voluntarily attend these complimentary classes to further their own learning and build life skills. Many of our volunteer teachers are themselves students in mainstream schools and through their work experience within HYA are paving their way to becoming teachers of the future. Our objective is to ensure that all their children receive the help and guidance needed to complement their learning in mainstream schools and outside the home.</p><p>Just as mainstream schools have a responsibility to look after our children and give them 'life skills' which are central to them becoming good citizens, HYA supplements the many factors involved in building children's characters. Factors such as, discipline, respect, interpersonal, communication and listening skills. Over the years we arranged excursions for students and their parents to France, Belgium, Holland, Wales to give them the experience and insight of other cultures in Europe.</p><p>Our President, Kanta Hirji, is also on the steering committee of the British Museum Supplementary School Programme. In the summer of 2013 we saw the British Museum run an objects handling session for our years 4-7. 2013 also saw the school working in partnership with the Greenwich Heritage Centre where it held an exhibition on Ancient Indian Civilisation and the input India had in developing areas such as trade, medicine, astrology, mathematics, etc.</p>"
+  },  
+  "keydates": {
+    "page" : "keydates",
+    "title" : "Key Dates",
+    "calendar" : [
+      {                
+        "month" : "September 2019",
+        "events" : [
+          {
+            "date" : "5<sup>th</sup> September",
+            "event" : "Hinduism Classes Start"
+          },
+          {
+            "date" : "7<sup>th</sup> September",
+            "event" : "English, Maths and Gujarati Classes Start"
+          },
+          {
+            "date" : "28<sup>th</sup> September",
+            "event" : "Annual Function (No Gujarati Classes)"
+          }
+        ]
+      },
+      {                
+        "month" : "October 2019",
+        "events" : [
+          {
+            "date" : "24<sup>th</sup> October",
+            "event" : "Half Term Break (No classes)"
+          },
+          {
+            "date" : "26<sup>th</sup> October",
+            "event" : "Half Term Break (No classes)"
+          }
+        ]
+      },      
+      {    
+        "month" : "December 2019",
+        "events" : [          
+          {
+            "date" : "22<sup>nd</sup> December",
+            "event" : "Christmas Break"
+          }
+        ]
+      },
+      {    
+        "month" : "January 2020",
+        "events" : [
+          {
+            "date" : "9<sup>th</sup> January",
+            "event" : "Hinduism Starts"
+          },
+          {
+            "date" : "11<sup>th</sup> January",
+            "event" : "English / Maths / Gujarati starts"
+          },
+          {
+            "date" : "16<sup>th</sup> January",
+            "event" : "Mock Exam Hinduism Paper 1"
+          },
+          {
+            "date" : "18<sup>th</sup> January",
+            "event" : "Mock Exams English Paper 1 / Gujarati Paper 1"
+          },
+          {
+            "date" : "23<sup>rd</sup> January",
+            "event" : "Mock Exam Hinduism Paper 2"
+          },
+          {
+            "date" : "25<sup>th</sup> January",
+            "event" : "Mock Exams Maths Paper 1 / Purna Vidya"
+          }
+        ]
+      },
+      {    
+        "month" : "February 2020",
+        "events" : [
+          {
+            "date" : "1<sup>st</sup> February",
+            "event" : "Mock Exams English Paper 2 / Prarthana and Gujarati Paper 2"
+          },
+          {
+            "date" : "8<sup>th</sup> February",
+            "event" : "Mock Exams Maths Paper 2 / Prarthana"
+          }
+          ,
+          {
+            "date" : "20<sup>th</sup> February",
+            "event" : "Half Term Break (No classes)"
+          }
+          ,
+          {
+            "date" : "22<sup>nd</sup> February",
+            "event" : "Half Term Break (No classes)"
+          }
+        ]
+      },
+      {
+        "month" : "March 2020",
+        "events" : [
+          {
+            "date" : "28<sup>th</sup> March",
+            "event" : "Parents Afternoon"
+          }
+        ]
+      },
+      {    
+        "month" : "April 2020",
+        "events" : [
+          {
+            "date" : "4<sup>th</sup> April - 20<sup>th</sup> April",
+            "event" : "No classes (Easter)"
+          },
+          {
+            "date" : "23<sup>rd</sup> April",
+            "event" : "Hinduism Starts"
+          },          
+          {
+            "date" : "25<sup>th</sup> April",
+            "event" : "English /Maths / Gujarati starts"
+          }
+        ]
+      },
+      {    
+        "month" : "May 2020",
+        "events" : [
+          {
+            "date" : "28<sup>th</sup> May",
+            "event" : "No classes (Half Term)"
+          },
+          {
+            "date" : "30<sup>th</sup> May",
+            "event" : "No classes (Half Term)"
+          }
+        ]
+      },
+      {    
+        "month" : "June 2020",
+        "events" : [          
+          {
+            "date" : "20<sup>th</sup> June",
+            "event" : "Final Exams English Paper 1 / Gujarati Paper 1"
+          },
+          {
+            "date" : "25<sup>th</sup> June",
+            "event" : "Final Exam Hinduism Paper 1"
+          },
+          {
+            "date" : "27<sup>th</sup> July",
+            "event" : "Final Exams Maths Ppaper 1 / Purna Vidya"
+          }
+        ]
+      },
+      {    
+        "month" : "July 2020",
+        "events" : [
+          {
+            "date" : "2<sup>nd</sup> July",
+            "event" : "Final Exam Hinduism Paper 2"
+          },
+          {
+            "date" : "4<sup>th</sup> July",
+            "event" : "Final Exams English Paper 2 / Gujarati Paper 2"
+          },          
+          {
+            "date" : "11<sup>th</sup> July",
+            "event" : "Final Exams Maths Paper 2 and Prarthana / Registrations for <span class='important'>CURRENT</span> students ONLY"
+          },
+          {
+            "date" : "16<sup>th</sup> July",
+            "event" : "Last Hinduism Class"
+          },
+          {
+            "date" : "18<sup>th</sup> July",
+            "event" : "Last Day of School / Registrations for <span class='important'>NEW</span> students ONLY"
+          }
+        ]
+      }
+    ]
+  }  
+}
