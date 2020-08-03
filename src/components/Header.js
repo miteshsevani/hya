@@ -40,6 +40,7 @@ export default class Header extends React.Component {
                 <li><NavLink onClick={this.handleClick} to="/keydates">Key Dates</NavLink></li>
                 <li><NavLink onClick={this.handleClick} to="/history">History</NavLink></li>
                 <li><a onClick={this.handleClick} href="http://hyauk.org/moodle" target="_blank">Moodle</a></li>
+                <li><NavLink onClick={this.handleClick} to="/register">Register</NavLink></li>
               </ul>
               <div className="social">
                 <a href="https://www.facebook.com/hyauk1" target="_blank" rel="noopener noreferrer" className="facebook"></a>

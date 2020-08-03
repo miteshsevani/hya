@@ -7,6 +7,7 @@ import Home from './components/Home'
 import About from './components/About'
 import Keydates from './components/Keydates'
 import History from './components/History'
+import Register from './components/Register'
 import Footer from './components/Footer'
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="/about" component={About} />
         <Route path="/keydates" component={Keydates} />
         <Route path="/history" component={History}/>
+        <Route path="/register" component={Register}/>
         </div>
       </HashRouter>
       <Footer />
