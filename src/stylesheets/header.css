@@ -1,33 +1,33 @@
 header {
   /*background: rgba(0, 0, 0, 0.9);*/
-  background: #f7f7f7;
+  background: #fdfdfd;
   padding: 4px 12px;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  z-index: 100; 
+  z-index: 100;
   box-shadow: 0 1px 3px rgba(0,0,0,.2);
 }
 
 .header-wrapper {
   max-width: 992px;
   margin: 0 auto;
-  display: flex; 
+  display: flex;
 }
 
 .header-logo {
   width: 50px;
-  margin-right: 8px; 
+  margin-right: 8px;
 }
 
 .brand {
   display: flex;
-  align-items: center; 
+  align-items: center;
 }
 
 .brand .brand-wrapper {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
 }
 
 .brand .brand-wrapper .brand-title {
@@ -38,22 +38,22 @@ header {
 
 @media all and (min-width: 768px) {
   .nav-dropdown {
-    display: none; 
+    display: none;
   }
   .header-wrapper {
-    justify-content: space-between; 
+    justify-content: space-between;
   }
   .header-logo {
     width: 55px;
-    margin-right: 8px; 
+    margin-right: 8px;
   }
   .brand .brand-title {
-    font-size: 18px; 
-  } 
+    font-size: 18px;
+  }
 }
 
 @media all and (min-width: 992px) {
   .header-wrapper .brand .brand-title {
-    font-size: 20px; 
-  } 
+    font-size: 20px;
+  }
 }

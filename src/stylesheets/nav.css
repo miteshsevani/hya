@@ -7,31 +7,44 @@
     background-image: url("../images/icons/menu-black.png");
     width: 36px;
     height: 36px;
-    cursor: pointer; }
-    .nav-dropdown.close {
-      background-image: url("../images/icons/close-black.png"); } }
+    cursor: pointer;
+  }
+  .nav-dropdown.close {
+    background-image: url("../images/icons/close-black.png");
+  }
+}
 
 .main-nav {
   position: absolute;
   right: 0;
-  
   padding: 8px;
   top: 65px;
   width: 100%;
-  text-align: center; }
-  .main-nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0; }
-    .main-nav ul li {
-      padding: 8px 0; }
-      .main-nav ul li a {        
-        color: #222222;
-        font-weight: normal; }
-        .main-nav ul li a:hover {
-          color: #EF6C00; }
-        .main-nav ul li a.active {
-          color: #EF6C00; }
+  text-align: center;
+}
+
+.main-nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.main-nav ul li {
+  padding: 8px 0;
+}
+
+.main-nav ul li a {
+  color: #222222;
+  font-weight: normal;
+}
+
+.main-nav ul li a:hover {
+  color: #EF6C00;
+}
+
+.main-nav ul li a.active {
+  color: #EF6C00;
+}
 
 @media all and (min-width: 768px) {
   .main-nav {
@@ -45,46 +58,66 @@
     padding: 0;
     top: 0;
     width: auto;
-    text-align: center; }
-    .main-nav ul {
-      display: flex;
-      justify-content: flex-end;
-      flex-wrap: wrap; }
-      .main-nav ul li {
-        padding: 0 8px; }
-    .main-nav a:hover {
-      transition: 0.3s; }
-    .main-nav .social a {
-      display: inline-block;
-      background-repeat: no-repeat;
-      border-radius: 50%;
-      margin-left: 8px; }
-      .main-nav .social a.facebook {
-        width: 35px;
-        height: 35px;
-        background: #4c70ba url("../images/facebook.svg"); }
-        .main-nav .social a.facebook:hover {
-          background-color: #3b5998; }
-      .main-nav .social a.email {
-        width: 35px;
-        height: 35px;
-        background: #EF6C00 url("../images/email.svg") no-repeat center; }
-        .main-nav .social a.email:hover {
-          background-color: #bc5500; } }
+    text-align: center;
+  }
+
+  .main-nav ul {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+  }
+
+  .main-nav ul li {
+    padding: 0 8px;
+  }
+
+  .main-nav a:hover {
+    transition: 0.3s;
+  }
+
+  .main-nav .social a {
+    display: inline-block;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-left: 8px;
+  }
+
+  .main-nav .social .facebook {
+    width: 35px;
+    height: 35px;
+    background: #4c70ba url("../images/facebook.svg");
+    border-radius: 50%;
+  }
+
+  .main-nav .social .facebook:hover {
+    background-color: #3b5998;
+  }
+
+  .main-nav .social .email {
+    width: 35px;
+    height: 35px;
+    background: #EF6C00 url("../images/email.svg") no-repeat center;
+    border-radius: 50%;
+  }
+
+  .main-nav .social .email:hover {
+    background-color: #bc5500;
+  }
+}
 
 @media all and (min-width: 992px) {
   .main-nav ul li {
-    padding: 0 16px; 
-  } 
+    padding: 0 16px;
+  }
 }
 
 @media all and (max-width: 767px) {
   .main-nav {
-    display: none; 
+    display: none;
   }
   .main-nav.visible {
-    display: block; 
+    display: block;
     background: #f7f7f7;
     box-shadow: 0 1px 3px rgba(0,0,0,.2);
-  } 
+  }
 }
