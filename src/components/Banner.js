@@ -5,10 +5,10 @@ const Banner = (props) => {
   return (
     <section className="banner">
       <h3>Important Announcement</h3>
-      <h4 dangerouslySetInnerHTML={{
+      <div dangerouslySetInnerHTML={{
         __html: props.text
       }}>
-      </h4>
+      </div>
     </section>
   )
 }
