@@ -1,4 +1,4 @@
-@media all and (max-width: 767px) {
+@media all and (max-width: 999px) {
   .nav-dropdown {
     position: absolute;
     right: 8px;
@@ -46,7 +46,7 @@
   color: #EF6C00;
 }
 
-@media all and (min-width: 768px) {
+@media all and (min-width: 1000px) {
   .main-nav {
     background: none;
     position: relative;
@@ -105,19 +105,19 @@
   }
 }
 
-@media all and (min-width: 992px) {
+@media all and (min-width: 1000px) {
   .main-nav ul li {
     padding: 0 16px;
   }
 }
 
-@media all and (max-width: 767px) {
+@media all and (max-width: 999px) {
   .main-nav {
     display: none;
   }
   .main-nav.visible {
     display: block;
-    background: #f7f7f7;
+    background: #fdfdfd;
     box-shadow: 0 1px 3px rgba(0,0,0,.2);
   }
 }

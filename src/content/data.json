@@ -263,5 +263,242 @@
         ]
       }
     ]
+  },
+  "resources": {
+    "page" : "Resources",
+    "title" : "Resources",
+    "resource": [
+      {
+        "category": "Gujarati",
+        "files": [
+          {
+            "title" : "Birds",
+            "source" : "../resources/gujarati/Birds.pdf"
+          },
+          {
+            "title" : "Body Parts",
+            "source" : "../resources/gujarati/Body Parts.pdf"
+          },
+          {
+            "title" : "Buildings",
+            "source" : "../resources/gujarati/Buildings.pdf"
+          },
+          {
+            "title" : "Colours",
+            "source" : "../resources/gujarati/Colours.pdf"
+          },
+          {
+            "title" : "Days of the Week",
+            "source" : "../resources/gujarati/Days of the Week.pdf"
+          },
+          {
+            "title" : "Direction and Seasons",
+            "source" : "../resources/gujarati/Direction and Seasons.pdf"
+          },
+          {
+            "title" : "Diseases and Illness",
+            "source" : "../resources/gujarati/Diseases and Illness.pdf"
+          },
+          {
+            "title" : "Domestic Animals",
+            "source" : "../resources/gujarati/Domestic Animals.pdf"
+          },
+          {
+            "title" : "Edibles",
+            "source" : "../resources/gujarati/Edibles.pdf"
+          },
+          {
+            "title" : "Foodgrains",
+            "source" : "../resources/gujarati/Foodgrains.pdf"
+          },
+          {
+            "title" : "Fruits",
+            "source" : "../resources/gujarati/Fruits.pdf"
+          },
+          {
+            "title" : "Groceries",
+            "source" : "../resources/gujarati/Groceries.pdf"
+          },
+          {
+            "title" : "House",
+            "source" : "../resources/gujarati/House.pdf"
+          },
+          {
+            "title" : "Household Goods",
+            "source" : "../resources/gujarati/Household Goods.pdf"
+          },
+          {
+            "title" : "Ka Kha Ga 1",
+            "source" : "../resources/gujarati/Ka Kha Ga 1.pdf"
+          },
+          {
+            "title" : "Ka Kha Ga 2",
+            "source" : "../resources/gujarati/Ka Kha Ga 2.pdf"
+          },
+          {
+            "title" : "Ka Kha Ga 3",
+            "source" : "../resources/gujarati/Ka Kha Ga 3.pdf"
+          },
+          {
+            "title" : "Kitchen Essentials",
+            "source" : "../resources/gujarati/Kitchen Essentials.pdf"
+          },
+          {
+            "title" : "Nature",
+            "source" : "../resources/gujarati/Nature.pdf"
+          },
+          {
+            "title" : "Numbers 1-10",
+            "source" : "../resources/gujarati/Numbers 1-10.pdf"
+          },
+          {
+            "title" : "Professions",
+            "source" : "../resources/gujarati/Professions.pdf"
+          },
+          {
+            "title" : "Relationships",
+            "source" : "../resources/gujarati/Relationships.pdf"
+          },
+          {
+            "title" : "Shapes",
+            "source" : "../resources/gujarati/Shapes.pdf"
+          },
+          {
+            "title" : "Time",
+            "source" : "../resources/gujarati/Time.pdf"
+          },
+          {
+            "title" : "Vegetables",
+            "source" : "../resources/gujarati/Vegetables.pdf"
+          },
+          {
+            "title" : "Vehicles",
+            "source" : "../resources/gujarati/Vehicles.pdf"
+          },
+          {
+            "title" : "Wild Animals",
+            "source" : "../resources/gujarati/Wild Animals.pdf"
+          }
+        ]
+      },
+      {
+        "category": "Hinduism",
+        "files": [
+          {
+            "title": "Avatars of Vishnu",
+            "source" : "../resources/hinduism/Avatars of Vishnu.pdf"
+          },
+          {
+            "title": "Festivals",
+            "source" : "../resources/hinduism/Festivals.pdf"
+          },
+          {
+            "title": "Goddesses",
+            "source" : "../resources/hinduism/Goddesses.pdf"
+          },
+          {
+            "title": "Gods",
+            "source" : "../resources/hinduism/Gods.pdf"
+          },
+          {
+            "title": "Hindu Months",
+            "source" : "../resources/hinduism/Hindu Months.pdf"
+          },
+          {
+            "title": "Hindu Kings",
+            "source" : "../resources/hinduism/Hindu Kings.pdf"
+          },
+          {
+            "title": "Holy Places",
+            "source" : "../resources/hinduism/Holy Places.pdf"
+          },
+          {
+            "title": "Mahabharat Characters 1",
+            "source" : "../resources/hinduism/Mahabharat Characters 1.pdf"
+          },
+          {
+            "title": "Mahabharat Characters 2",
+            "source" : "../resources/hinduism/Mahabharat Characters 2.pdf"
+          },
+          {
+            "title": "Ramayan Characters 1",
+            "source" : "../resources/hinduism/Ramayan Characters 1.pdf"
+          },
+          {
+            "title": "Ramayan Characters 2",
+            "source" : "../resources/hinduism/Ramayan Characters 2.pdf"
+          },
+          {
+            "title": "Hindu Rituals",
+            "source" : "../resources/hinduism/Hindu Rituals.pdf"
+          },
+          {
+            "title": "Sacred Hills and Mountains",
+            "source" : "../resources/hinduism/Sacred Hills and Mountains.pdf"
+          },
+          {
+            "title": "Saints",
+            "source" : "../resources/hinduism/Saints.pdf"
+          },
+          {
+            "title": "Scriptures",
+            "source" : "../resources/hinduism/Scriptures.pdf"
+          },
+          {
+            "title": "Symbols",
+            "source" : "../resources/hinduism/Symbols.pdf"
+          }
+        ]
+      },
+      {
+        "category": "India",
+        "files": [
+          {
+            "title": "Food",
+            "source" : "../resources/india/Food.pdf"
+          },
+          {
+            "title": "Freedom Fighters",
+            "source" : "../resources/india/Freedom Fighters.pdf"
+          },
+          {
+            "title": "Great Women",
+            "source" : "../resources/india/Great Women.pdf"
+          },
+          {
+            "title": "Major Cities of Gujarat",
+            "source" : "../resources/india/Major Cities of Gujarat.pdf"
+          },
+          {
+            "title": "India's Contribution",
+            "source" : "../resources/india/Indias Contribution.pdf"
+          },
+          {
+            "title": "Symbols and Emblems",
+            "source" : "../resources/india/Symbols and Emblems.pdf"
+          },
+          {
+            "title": "Cities",
+            "source" : "../resources/india/Cities.pdf"
+          },
+          {
+            "title": "Monuments and Temples",
+            "source" : "../resources/india/Monuments and Temples.pdf"
+          },
+          {
+            "title": "Prime Ministers",
+            "source" : "../resources/india/Prime Ministers.pdf"
+          },
+          {
+            "title": "Rivers",
+            "source" : "../resources/india/Rivers.pdf"
+          },
+          {
+            "title": "States",
+            "source" : "../resources/india/States.pdf"
+          }
+        ]
+      }
+    ]
   }
 }

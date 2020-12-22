@@ -1,7 +1,7 @@
 @import 'fonts.css';
 
 html {
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
 }
 
 body {
@@ -9,61 +9,64 @@ body {
   color: #222222;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; 
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
   color: #288ECE;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 a:hover {
-  color: #bc5500; 
+  color: #bc5500;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   font-weight: 500;
-  margin: 0; 
+  margin: 0;
 }
 
+ol, ul {
+  padding-left: 20px;
+}
 
 img {
-  max-width: 100%; 
+  max-width: 100%;
 }
-  
+
 .content {
   display: flex;
   flex-direction: column;
   padding: 12px;
-  line-height: 1.5; 
+  line-height: 1.5;
 }
 
 .main p:first-of-type {
-  font-weight: normal; 
+  font-weight: normal;
 }
 
 .wrapper {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between; 
+  justify-content: space-between;
 }
 
 .title {
-  color: #288ECE; 
+  color: #288ECE;
 }
 
 @media all and (min-width: 768px) {
   .content {
-    padding: 16px; 
-  } 
+    padding: 16px;
+  }
 }
 
 @media all and (min-width: 992px) {
   .content {
     max-width: 992px;
     margin: 0 auto;
-    padding: 32px 0; 
-  } 
+    padding: 32px 0;
+  }
 }
