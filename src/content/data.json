@@ -1,29 +1,11 @@
 {
   "banner": {
-    "text" : "<p>Due to the pandemic and government guidelines around Covid-19, Plumstead Manor school will remain closed for external hiring. As a result, there will be no Maths or English classes until further notice. However Gujarati and Hinduism classes will continue to run online starting September 2020.</p><p>With this in mind, registration for 2020-2021 will be online ONLY. Please complete the form using the <a href='#/register'>Registration Link</a> for each child you wish to register by 31 August 2020.</p><p>Please contact <a href='mailto:info@hyauk.org'>info@hyauk.org</a> for any questions.</p>"
+    "text" : ""
   },
   "index": {
     "page" : "home",
     "title" : "Hindu Youth Association",
     "classes": [
-      {
-        "className" : "english",
-        "icon" : "../images/icons/english.png",
-        "subject" : "English",
-        "years" : "Years 1 to 7",
-        "day" : "Saturday",
-        "time" : "12.30 to 14.30",
-        "venue" : "Plumstead Manor School<br />Old Mill Road<br />Plumstead, SE18 1QF"
-      },
-      {
-        "className" : "maths",
-        "icon" : "../images/icons/maths.png",
-        "subject" : "Maths",
-        "years" : "Years 1 to 13",
-        "day" : "Saturday",
-        "time" : "12.30 to 14.30",
-        "venue" : "Plumstead Manor School<br />Old Mill Road<br />Plumstead, SE18 1QF"
-      },
       {
         "className" : "gujarati",
         "icon" : "../images/icons/gujarati.png",
@@ -328,6 +310,10 @@
             "source" : "../resources/gujarati/Household Goods.pdf"
           },
           {
+            "title" : "Ka Kha Ga Barakhadi",
+            "source" : "../resources/gujarati/Ka Kha Ga Barakhadi.pdf"
+          },
+          {
             "title" : "Ka Kha Ga 1",
             "source" : "../resources/gujarati/Ka Kha Ga 1.pdf"
           },
@@ -496,6 +482,99 @@
           {
             "title": "States",
             "source" : "../resources/india/States.pdf"
+          }
+        ]
+      },
+      {
+        "category": "Mantras",
+        "files": [
+          {
+            "title": "Ahimsa Paramo Dharma",
+            "source" : "../resources/mantras/Ahimsa Paramo Dharma.pdf"
+          },
+          {
+            "title": "Ayam Nijah Paro Veti",
+            "source" : "../resources/mantras/Ayam Nijah Paro Veti.pdf"
+          },
+          {
+            "title": "Ekam Sat Vipraa Bahudhaa Vadanti",
+            "source" : "../resources/mantras/Ekam Sat Vipraa Bahudhaa Vadanti.pdf"
+          },
+          {
+            "title": "Ekatmata Mantra",
+            "source" : "../resources/mantras/Ekatmata Mantra.pdf"
+          },
+          {
+            "title": "Gurur Brahma Gurur Vishnu",
+            "source" : "../resources/mantras/Gurur Brahma Gurur Vishnu.pdf"
+          },
+          {
+            "title": "Karagre Vaste Lakshmi",
+            "source" : "../resources/mantras/Karagre Vaste Lakshmi.pdf"
+          },
+          {
+            "title": "Krnvanto Vishwam Aryam",
+            "source" : "../resources/mantras/Krnvanto Vishwam Aryam.pdf"
+          },
+          {
+            "title": "Maathru Devo Bhava",
+            "source" : "../resources/mantras/Maathru Devo Bhava.pdf"
+          },
+          {
+            "title": "Mano Javam Maaruta Tulya Vegam",
+            "source" : "../resources/mantras/Mano Javam Maaruta Tulya Vegam.pdf"
+          },
+          {
+            "title": "Na Abhisheko Na Samskara",
+            "source" : "../resources/mantras/Na Abhisheko Na Samskara.pdf"
+          },
+          {
+            "title": "Om Asato Maa Sad Gamaya",
+            "source" : "../resources/mantras/Om Asato Maa Sad Gamaya.pdf"
+          },
+          {
+            "title": "Om Bhuur Bhuvah Svah",
+            "source" : "../resources/mantras/Om Bhuur-Bhuvah Svah.pdf"
+          },
+          {
+            "title": "Om Saha Naavavatu",
+            "source" : "../resources/mantras/Om Saha Naavavatu.pdf"
+          },
+          {
+            "title": "Om Sarve Bhavantu Sukhinah",
+            "source" : "../resources/mantras/Om Sarve Bhavantu Sukhinah.pdf"
+          },
+          {
+            "title": "Saraswati Namastubhyam",
+            "source" : "../resources/mantras/Saraswati Namastubhyam.pdf"
+          },
+          {
+            "title": "Sarva Mangala Maangalye",
+            "source" : "../resources/mantras/Sarva Mangala Maangalye.pdf"
+          },
+          {
+            "title": "Shubham Karoti Kalyaannam",
+            "source" : "../resources/mantras/Shubham Karoti Kalyaannam.pdf"
+          },
+          {
+            "title": "Surya Namaskar Mantra",
+            "source" : "../resources/mantras/Surya Namaskar Mantra.pdf"
+          },
+          {
+            "title": "Tvameva Maataa Ch Pitaa Tvameva",
+            "source" : "../resources/mantras/Tvameva Maataa Ch Pitaa Tvameva.pdf"
+          },
+          {
+            "title": "Vakra Tunndda MahaKaaya",
+            "source" : "../resources/mantras/Vakra Tunndda MahaKaaya.pdf"
+          },
+          {
+            "title": "Yada Yada Hi Dharmasya",
+            "source" : "../resources/mantras/Yada Yada Hi Dharmasya.pdf"
+          },
+          {
+            "title": "Yatra Naryastu Pujyante",
+            "source" : "../resources/mantras/Yatra Naryastu Pujyante.pdf"
           }
         ]
       }

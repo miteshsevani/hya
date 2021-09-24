@@ -5,6 +5,7 @@ import './stylesheets/App.css';
 import Header from './components/Header'
 import Home from './components/Home'
 import About from './components/About'
+import Donate from './components/Donate'
 import Keydates from './components/Keydates'
 import History from './components/History'
 import Resources from './components/Resources'
@@ -23,6 +24,7 @@ const App = () => {
           <Route path="/history" component={History}/>
           <Route path="/resources" component={Resources}/>
           <Route path="/register" component={Register}/>
+          <Route path="/donate" component={Donate}/>
         </Switch>
       </Router>
       <Footer />
