@@ -23,6 +23,9 @@ const Donate = () => {
       </table>
 
       <p>For the payment reference, please use your <b>FIRSTNAME_SURNAME_POSTCODE</b></p>
+      <br/>
+      <h3>Gift Aid</h3>
+      <p>If you are a UK tax payer, please complete the <a href='../forms/gift-aid-declaration.pdf' target='_blank'>Gift Aid Form</a> and send it to <a href='mailto:info@hyauk.org' target='_blank'>info@hyauk.org</a>. This will allow us to claim back gift aid for all your donations.</p>
     </div>
   )
 }

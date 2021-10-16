@@ -38,12 +38,29 @@
   font-weight: normal;
 }
 
-.main-nav ul li a:hover {
+.main-nav ul li a:hover,
+.main-nav ul li a.active {
   color: #EF6C00;
 }
 
-.main-nav ul li a.active {
-  color: #EF6C00;
+
+.btn--donate {
+  background-color: #e00;
+  border-radius: 4px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 1.2em;
+  letter-spacing: 2px;
+  padding: 8px 16px;
+  position: fixed;
+  top: 100px;
+  right: 4px;
+}
+
+.btn--donate:hover {
+  background-color: #c00;
+  color: #ffffff;
 }
 
 @media all and (min-width: 1000px) {
