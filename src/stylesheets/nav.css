@@ -52,10 +52,11 @@
   font-weight: 400;
   font-size: 1.2em;
   letter-spacing: 2px;
-  padding: 8px 16px;
+  padding: 6px 12px;
   position: fixed;
-  top: 100px;
-  right: 4px;
+  bottom: 4px;
+  left: 4px;
+  z-index: 1;
 }
 
 .btn--donate:hover {
@@ -120,11 +121,17 @@
   .main-nav .social .email:hover {
     background-color: #bc5500;
   }
-}
 
-@media all and (min-width: 1000px) {
   .main-nav ul li {
     padding: 0 16px;
+  }
+
+  .btn--donate {
+    bottom: auto;
+    left: auto;
+    padding: 8px 16px;
+    top: 100px;
+    right: 4px;
   }
 }
 
