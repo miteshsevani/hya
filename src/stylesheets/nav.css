@@ -57,7 +57,7 @@
   position: fixed;
   bottom: 0px;
   left: 50%;
-  z-index: 1;
+  z-index: 10;
 }
 
 .btn--donate:hover {
