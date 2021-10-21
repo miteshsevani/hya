@@ -21,9 +21,6 @@ export default class Header extends React.Component {
   render() {
     return (
       <div>
-        <HashRouter>
-          <NavLink to="/donate" className='btn--donate'>Donate</NavLink>
-        </HashRouter>
         <header>
           <div className="header-wrapper">
             <a href="/">
@@ -43,8 +40,9 @@ export default class Header extends React.Component {
                   <li><NavLink onClick={this.handleClick} to="/keydates">Key Dates</NavLink></li>
                   <li><NavLink onClick={this.handleClick} to="/history">History</NavLink></li>
                   <li><NavLink onClick={this.handleClick} to="/resources">Resources</NavLink></li>
-                  <li><a onClick={this.handleClick} href="http://hyauk.org/moodle" target="_blank" rel="noopener noreferrer">Moodle</a></li>
-                  <li><NavLink onClick={this.handleClick} to="/register">Registration</NavLink></li>
+                  <li><NavLink onClick={this.handleClick} to="/donate" className='btn--donate'>Donate</NavLink></li>
+                  {/* <li><a onClick={this.handleClick} href="http://hyauk.org/moodle" target="_blank" rel="noopener noreferrer">Moodle</a></li> */}
+                  {/* <li><NavLink onClick={this.handleClick} to="/register">Registration</NavLink></li> */}
                 </ul>
                 <div className="social">
                   <a href="https://www.facebook.com/hyauk1" target="_blank" rel="noopener noreferrer">

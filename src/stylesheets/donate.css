@@ -1,0 +1,43 @@
+.donate__cta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+}
+
+.btn--donate {
+  background-color: #e60023;
+  border-radius: 50px;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 8px 16px;
+  width: fit-content;
+}
+
+@media all and (min-width: 1000px) {
+  .btn--donate {
+    padding: 16px 24px;
+  }
+}
+
+.donate__cta .btn--donate {
+  color: #ffffff;
+  font-size: 1.2rem;
+  letter-spacing: 1.2px;
+}
+
+.btn--donate:hover,
+.btn--donate.active {
+  background-color: #c00;
+  color: #ffffff;
+}
+
+.img--paypal {
+  width: fit-content;
+  margin: 32px 0;
+}

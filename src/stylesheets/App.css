@@ -5,11 +5,16 @@ html {
 }
 
 body {
-  font: 300 17px "Roboto", Helvetica, Arial, sans-serif;
+  font: 400 1.2rem "Roboto", Helvetica, Arial, sans-serif;
+  line-height: 1rem;
   color: #222222;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  margin: 1rem 0;
 }
 
 a {
