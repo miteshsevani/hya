@@ -8,7 +8,7 @@ const Donate = () => {
       <p>We are a voluntary, not-for-profit organisation. In order for us to continue our classes, we welcome any contributions.</p>
       <p>You can opt to contribute via a <b>one-off</b>&nbsp;or a <b>monthly</b> donation.</p>
       <p>Thank you for your support.</p>
-      <p><i>Please note, PayPal will charge higher processing fees for donations made through credit cards, it is therefor recommended to use debit card or direct bank transfer.</i></p>
+      <p><i>Please note, PayPal will charge higher processing fees for donations made through credit cards, it is therefore recommended to use debit card or direct bank transfer.</i></p>
 
       <div className='donate__cta'>
         <button><a className='btn--donate' href='https://www.paypal.com/donate?hosted_button_id=RSJYDS2ZJDVGU' target='_blank'>Donate</a></button>
