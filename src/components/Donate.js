@@ -4,7 +4,8 @@ import '../stylesheets/donate.css'
 const Donate = () => {
   return(
     <div className="content">
-      <h1 className="title">Donate</h1>
+      <h1 className="title">Donate</h1><br/>
+      <h3>Donate securely via PayPal</h3>
       <p>We are a voluntary, not-for-profit organisation. In order for us to continue our classes, we welcome any contributions.</p>
       <p>You can opt to contribute via a <b>one-off</b>&nbsp;or a <b>monthly</b> donation.</p>
       <p>Thank you for your support.</p>

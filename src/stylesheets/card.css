@@ -1,0 +1,58 @@
+.card {
+  border: 2px solid #288ECE;
+  border-radius: 15px;
+  width: 270px;
+  height: 200px;
+  margin: 32px 16px;
+  padding: 40px 8px 16px 8px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.card h3 {
+  padding: 0 16px;
+  z-index: 1;
+}
+
+.card img {
+  position: absolute;
+  background: #ffffff;
+  width: 50px;
+  top: -36px;
+  padding: 8px 16px;
+}
+
+.card .day-time {
+  padding: 16px 0;
+  font-weight: normal;
+}
+
+.card.yoga img,
+.card.hinduism img {
+  top: -50px;
+}
+
+
+@media all and (min-width: 768px) {
+  .card {
+    width: 296px;
+    height: 220px;
+  }
+  .card img {
+    width: auto;
+    top: -56px;
+    padding: 16px 32px;
+  }
+  .card.yoga img, .card.hinduism img {
+    top: -56px;
+  }
+}
+
+@media all and (min-width: 992px) {
+  .card {
+    width: 270px;
+  }
+}

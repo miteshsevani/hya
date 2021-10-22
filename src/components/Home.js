@@ -1,5 +1,5 @@
 import React from 'react'
-import Panel from './Panel'
+import Card from './Card'
 import '../stylesheets/home.css'
 
 import Banner from './Banner'
@@ -15,7 +15,7 @@ const Home = () => {
         <div className="classes">
           {data.index.classes.map((val, key) => {
             return(
-              <Panel key={key} data={val} />
+              <Card key={key} data={val} />
             )
           })}
         </div>
