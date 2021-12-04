@@ -37,7 +37,7 @@ export default class Header extends React.Component {
               <nav className={`main-nav ${this.state.toggle ? 'visible' : ''}`}>
                 <ul>
                   <li><NavLink onClick={this.handleClick} to="/about">About HYA</NavLink></li>
-                  <li><NavLink onClick={this.handleClick} to="/keydates">Key Dates</NavLink></li>
+                  {/* <li><NavLink onClick={this.handleClick} to="/keydates">Key Dates</NavLink></li> */}
                   <li><NavLink onClick={this.handleClick} to="/history">History</NavLink></li>
                   <li><NavLink onClick={this.handleClick} to="/resources">Resources</NavLink></li>
                   <li><NavLink onClick={this.handleClick} to="/donate" className='btn--donate'>Donate</NavLink></li>

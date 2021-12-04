@@ -15,6 +15,7 @@
 }
 
 .main-nav {
+  font-size: 1rem;
   position: absolute;
   right: 0;
   padding: 8px;
@@ -35,7 +36,6 @@
 
 .main-nav ul li a {
   color: #222222;
-  font-weight: normal;
 }
 
 .main-nav ul li a:hover,
@@ -94,10 +94,10 @@
   }
 
   .main-nav .social .facebook {
+    background: #222 url("../images/facebook.svg");
+    border-radius: 50%;
     width: 35px;
     height: 35px;
-    background: #4c70ba url("../images/facebook.svg");
-    border-radius: 50%;
   }
 
   .main-nav .social .facebook:hover {
@@ -105,10 +105,10 @@
   }
 
   .main-nav .social .email {
+    background: #222 url("../images/email.svg") no-repeat center;
+    border-radius: 50%;
     width: 35px;
     height: 35px;
-    background: #EF6C00 url("../images/email.svg") no-repeat center;
-    border-radius: 50%;
   }
 
   .main-nav .social .email:hover {
