@@ -8,7 +8,7 @@ const Donate = () => {
       <h3>Donate securely via PayPal</h3>
       <p>We are a voluntary, not-for-profit organisation. In order for us to continue our classes, we welcome any contributions.</p>
       <p>You can opt to contribute via a <b>one-off</b>&nbsp;or a <b>monthly</b> donation.</p>
-      <p>If you are a UK tax payer, ensure you tick the option to apply <b>Gift Aid</b>. This will be displayed PayPal's donate page.</p>
+      <p>If you are a UK tax payer, ensure you tick the option to apply <b>Gift Aid</b>. This will be displayed on PayPal's donate page.</p>
       <p>Thank you for your support.</p>
       <p><i>Please note, PayPal will charge higher processing fees for donations made through credit cards, it is therefore recommended to use debit card or direct bank transfer.</i></p>
 
