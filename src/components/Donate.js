@@ -8,6 +8,7 @@ const Donate = () => {
       <h3>Donate securely via PayPal</h3>
       <p>We are a voluntary, not-for-profit organisation. In order for us to continue our classes, we welcome any contributions.</p>
       <p>You can opt to contribute via a <b>one-off</b>&nbsp;or a <b>monthly</b> donation.</p>
+      <p>If you are a UK tax payer, ensure you tick the option to apply <b>Gift Aid</b>. This will be displayed PayPal's donate page.</p>
       <p>Thank you for your support.</p>
       <p><i>Please note, PayPal will charge higher processing fees for donations made through credit cards, it is therefore recommended to use debit card or direct bank transfer.</i></p>
 
@@ -16,26 +17,7 @@ const Donate = () => {
         <img className='img--paypal' src='images/paypal.png' alt='Pay Pal' />
       </div>
 
-      <h3>Donate via online banking</h3><br/>
-      <table>
-        <tr>
-          <td>Account</td>
-          <td>Hindu Youth Association</td>
-        </tr>
-        <tr>
-          <td>A/C no</td>
-          <td>64283224</td>
-        </tr>
-        <tr>
-          <td>Sort code</td>
-          <td>60-24-26</td>
-        </tr>
-      </table>
-
-      <p>For the payment reference, please use your <b>FIRSTNAME_SURNAME_POSTCODE</b></p>
-      <br/>
-      <h3>Gift Aid</h3>
-      <p>If you are a UK tax payer, please complete the <a href='../forms/gift-aid-declaration.pdf' target='_blank'>Gift Aid Form</a> and send it to <a href='mailto:info@hyauk.org' target='_blank'>info@hyauk.org</a>. This will allow us to claim back gift aid for all your donations.</p>
+      <p>If you wish to donate in any other way other than PayPal, please contact us at <a href='mailto:info@hyauk.org' target='_blank'>info@hyauk.org</a></p>
     </div>
   )
 }
